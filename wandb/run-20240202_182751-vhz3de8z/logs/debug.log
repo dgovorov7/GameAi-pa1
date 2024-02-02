@@ -1,0 +1,34 @@
+2024-02-02 18:27:51,123 INFO    MainThread:86419 [wandb_setup.py:_flush():76] Current SDK version is 0.16.2
+2024-02-02 18:27:51,123 INFO    MainThread:86419 [wandb_setup.py:_flush():76] Configure stats pid to 86419
+2024-02-02 18:27:51,124 INFO    MainThread:86419 [wandb_setup.py:_flush():76] Loading settings from /Users/den/.config/wandb/settings
+2024-02-02 18:27:51,124 INFO    MainThread:86419 [wandb_setup.py:_flush():76] Loading settings from /Users/den/Documents/CS/classwork/4900/pa1/wandb/settings
+2024-02-02 18:27:51,124 INFO    MainThread:86419 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-02-02 18:27:51,124 INFO    MainThread:86419 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-02-02 18:27:51,124 INFO    MainThread:86419 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'snakelearn.py', 'program_abspath': '/Users/den/Documents/CS/classwork/4900/pa1/snakelearn.py', 'program': '/Users/den/Documents/CS/classwork/4900/pa1/snakelearn.py'}
+2024-02-02 18:27:51,124 INFO    MainThread:86419 [wandb_init.py:_log_setup():526] Logging user logs to /Users/den/Documents/CS/classwork/4900/pa1/wandb/run-20240202_182751-vhz3de8z/logs/debug.log
+2024-02-02 18:27:51,124 INFO    MainThread:86419 [wandb_init.py:_log_setup():527] Logging internal logs to /Users/den/Documents/CS/classwork/4900/pa1/wandb/run-20240202_182751-vhz3de8z/logs/debug-internal.log
+2024-02-02 18:27:51,124 INFO    MainThread:86419 [wandb_init.py:init():566] calling init triggers
+2024-02-02 18:27:51,124 INFO    MainThread:86419 [wandb_init.py:init():573] wandb.init called with sweep_config: {}
+config: {}
+2024-02-02 18:27:51,124 INFO    MainThread:86419 [wandb_init.py:init():616] starting backend
+2024-02-02 18:27:51,124 INFO    MainThread:86419 [wandb_init.py:init():620] setting up manager
+2024-02-02 18:27:51,126 INFO    MainThread:86419 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-02-02 18:27:51,129 INFO    MainThread:86419 [wandb_init.py:init():628] backend started and connected
+2024-02-02 18:27:51,133 INFO    MainThread:86419 [wandb_init.py:init():720] updated telemetry
+2024-02-02 18:27:51,134 INFO    MainThread:86419 [wandb_init.py:init():753] communicating run to backend with 90.0 second timeout
+2024-02-02 18:27:51,475 INFO    MainThread:86419 [wandb_run.py:_on_init():2254] communicating current version
+2024-02-02 18:27:51,575 INFO    MainThread:86419 [wandb_run.py:_on_init():2263] got version response 
+2024-02-02 18:27:51,575 INFO    MainThread:86419 [wandb_init.py:init():804] starting run threads in backend
+2024-02-02 18:27:53,008 INFO    MainThread:86419 [wandb_run.py:_console_start():2233] atexit reg
+2024-02-02 18:27:53,008 INFO    MainThread:86419 [wandb_run.py:_redirect():2088] redirect: wrap_raw
+2024-02-02 18:27:53,008 INFO    MainThread:86419 [wandb_run.py:_redirect():2153] Wrapping output streams.
+2024-02-02 18:27:53,008 INFO    MainThread:86419 [wandb_run.py:_redirect():2178] Redirects installed.
+2024-02-02 18:27:53,008 INFO    MainThread:86419 [wandb_init.py:init():847] run started, returning control to user process
+2024-02-02 18:27:53,400 INFO    MainThread:86419 [wandb_run.py:_tensorboard_callback():1498] tensorboard callback: logs/1706916470/PPO_0, True
+2024-02-02 18:32:14,253 INFO    MainThread:86419 [wandb_run.py:_tensorboard_callback():1498] tensorboard callback: logs/1706916470/PPO_0, True
+2024-02-02 18:45:26,498 INFO    MainThread:86419 [wandb_run.py:_tensorboard_callback():1498] tensorboard callback: logs/1706916470/PPO_0, True
+2024-02-02 18:47:52,219 INFO    MainThread:86419 [wandb_run.py:_tensorboard_callback():1498] tensorboard callback: logs/1706916470/PPO_0, True
+2024-02-02 18:50:20,598 INFO    MainThread:86419 [wandb_run.py:_tensorboard_callback():1498] tensorboard callback: logs/1706916470/PPO_0, True
+2024-02-02 18:52:46,331 INFO    MainThread:86419 [wandb_run.py:_tensorboard_callback():1498] tensorboard callback: logs/1706916470/PPO_0, True
+2024-02-02 18:55:11,829 INFO    MainThread:86419 [wandb_run.py:_tensorboard_callback():1498] tensorboard callback: logs/1706916470/PPO_0, True
+2024-02-02 18:57:39,738 INFO    MainThread:86419 [wandb_run.py:_tensorboard_callback():1498] tensorboard callback: logs/1706916470/PPO_0, True

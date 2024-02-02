@@ -1,0 +1,29 @@
+Using cpu device
+Wrapping the env with a `Monitor` wrapper
+Wrapping the env in a DummyVecEnv.
+current iteration  0
+Logging to logs/1706915773/PPO_0
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.08     |
+|    ep_rew_mean     | -10      |
+| time/              |          |
+|    fps             | 14       |
+|    iterations      | 1        |
+|    time_elapsed    | 145      |
+|    total_timesteps | 2048     |
+---------------------------------
+Saved model to models/1706915773//2
+current iteration  1
+Logging to logs/1706915773/PPO_0
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.9      |
+|    ep_rew_mean     | -10      |
+| time/              |          |
+|    fps             | 14       |
+|    iterations      | 1        |
+|    time_elapsed    | 143      |
+|    total_timesteps | 4096     |
+---------------------------------
+Saved model to models/1706915773//4

@@ -1,0 +1,95 @@
+Using cpu device
+Wrapping the env with a `Monitor` wrapper
+Wrapping the env in a DummyVecEnv.
+current iteration  0
+Logging to logs/1706916470/PPO_0
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.68     |
+|    ep_rew_mean     | -10      |
+| time/              |          |
+|    fps             | 7        |
+|    iterations      | 1        |
+|    time_elapsed    | 260      |
+|    total_timesteps | 2048     |
+---------------------------------
+Saved model to models/1706916470//100
+current iteration  1
+Logging to logs/1706916470/PPO_0
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.45     |
+|    ep_rew_mean     | -10      |
+| time/              |          |
+|    fps             | 2        |
+|    iterations      | 1        |
+|    time_elapsed    | 791      |
+|    total_timesteps | 4096     |
+---------------------------------
+Saved model to models/1706916470//200
+current iteration  2
+Logging to logs/1706916470/PPO_0
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.74     |
+|    ep_rew_mean     | -10      |
+| time/              |          |
+|    fps             | 14       |
+|    iterations      | 1        |
+|    time_elapsed    | 145      |
+|    total_timesteps | 6144     |
+---------------------------------
+Saved model to models/1706916470//300
+current iteration  3
+Logging to logs/1706916470/PPO_0
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 6.81     |
+|    ep_rew_mean     | -10      |
+| time/              |          |
+|    fps             | 13       |
+|    iterations      | 1        |
+|    time_elapsed    | 148      |
+|    total_timesteps | 8192     |
+---------------------------------
+Saved model to models/1706916470//400
+current iteration  4
+Logging to logs/1706916470/PPO_0
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 8.88     |
+|    ep_rew_mean     | -9.99    |
+| time/              |          |
+|    fps             | 14       |
+|    iterations      | 1        |
+|    time_elapsed    | 145      |
+|    total_timesteps | 10240    |
+---------------------------------
+Saved model to models/1706916470//500
+current iteration  5
+Logging to logs/1706916470/PPO_0
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 11.3     |
+|    ep_rew_mean     | -10      |
+| time/              |          |
+|    fps             | 14       |
+|    iterations      | 1        |
+|    time_elapsed    | 145      |
+|    total_timesteps | 12288    |
+---------------------------------
+Saved model to models/1706916470//600
+current iteration  6
+Logging to logs/1706916470/PPO_0
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 15.4     |
+|    ep_rew_mean     | -10      |
+| time/              |          |
+|    fps             | 13       |
+|    iterations      | 1        |
+|    time_elapsed    | 147      |
+|    total_timesteps | 14336    |
+---------------------------------
+Saved model to models/1706916470//700
+current iteration  7

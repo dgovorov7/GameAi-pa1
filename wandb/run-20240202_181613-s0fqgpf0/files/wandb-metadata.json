@@ -1,0 +1,43 @@
+{
+    "os": "macOS-13.6.3-arm64-arm-64bit",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-02-02T23:16:14.840867",
+    "startedAt": "2024-02-02T23:16:13.927193",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/den/Documents/CS/classwork/4900/pa1/snakelearn.py",
+    "codePathLocal": "snakelearn.py",
+    "codePath": "snakelearn.py",
+    "host": "dens-MacBook-Pro.local",
+    "username": "den",
+    "executable": "/Users/den/miniconda3/bin/python3",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3228,
+        "min": 600,
+        "max": 3228
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3228,
+            "min": 600,
+            "max": 3228
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 14.646678924560547
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
